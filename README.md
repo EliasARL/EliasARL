@@ -21,7 +21,7 @@
 
 <p align="center"><img alt="EliasARL Streak Stats" src="https://streak-stats.demolab.com?user=EliasARL&theme=github-dark-blue" alt="GitHub Streak"></p> 
 
- <img alt="Elias Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EliasARL&theme=github-dark" align="center"/>
+<p align="center"> <img alt="Elias Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EliasARL&theme=github-dark" align="center"/></p>
 
 
 
